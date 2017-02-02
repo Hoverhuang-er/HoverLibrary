@@ -1,2 +1,3 @@
-# SH-Hub
-SmartHome and Internet of thing with Raspberry
+### Hover'code library
+#### 1. 这里存储了我的日常代码
+#### 2. ...
