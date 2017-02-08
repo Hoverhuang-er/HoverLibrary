@@ -2,9 +2,7 @@
 dht22.py 
 
 Temperature/Humidity monitor using Raspberry Pi and DHT22. 
-Data is displayed at thingspeak.com
-Original author: Mahesh Venkitachalam at electronut.in 
-Modified by Adam Garbo on December 1, 2016 
+
 """ 
 
 import sys 
