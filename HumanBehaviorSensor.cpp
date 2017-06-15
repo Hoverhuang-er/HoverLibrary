@@ -1,16 +1,3 @@
-// MPU-6050 Accelerometer + Gyro
-// -----------------------------
-//
-// By arduino.cc user "Krodal".
-// June 2012
-// Open Source / Public Domain
-// Modified by Debra - http://www.geekmomprojects.com/gyroscopes-and-accelerometers-on-a-chip/
-//
-// Using Arduino 1.0.1
-// It will not work with an older version, 
-// since Wire.endTransmission() uses a parameter 
-// to hold or release the I2C bus.
-//
 // Documentation:
 // - The InvenSense documents:
 //   - "MPU-6000 and MPU-6050 Product Specification",
