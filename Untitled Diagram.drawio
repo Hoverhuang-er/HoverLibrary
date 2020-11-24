@@ -1,13 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T16:33:08.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m3ulfNYEehXKxAyZcV-z" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T16:34:24.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gIa8stS28n9cNVp9oODd" version="13.10.2" type="github">
   <diagram id="Gj_wWmISH5d1NkYIvcMC" name="Page-1">
     <mxGraphModel dx="950" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u2SFOlpM5_yBMviXiRNT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="650" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="u2SFOlpM5_yBMviXiRNT-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-128.png" vertex="1" parent="1">
+          <mxGeometry x="326" y="470" width="68" height="68" as="geometry" />
+        </mxCell>
         <mxCell id="u2SFOlpM5_yBMviXiRNT-2" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=46;endSize=13;width=38;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="360" as="sourcePoint" />
-            <mxPoint x="160" y="360" as="targetPoint" />
+            <mxPoint x="240" y="360" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
