@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:42:14.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kFiprxfGN7z115VI8scY" version="22.1.21" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:54:47.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="BklY2EeN39WfZ-iwNnHz" version="22.1.21" type="github" pages="5">
   <diagram name="ngx_adp" id="dC70pTfbhtXe6jeN7_Fv">
-    <mxGraphModel dx="1079" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yzsN68rdD48GrXxE4dB-" name="apigw_adp">
-    <mxGraphModel dx="1115" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
         <mxCell id="MaCaHjVzmZmeIsE4lFRO-21" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" parent="MaCaHjVzmZmeIsE4lFRO-19" vertex="1">
           <mxGeometry width="27.692307692307693" height="27.692307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="F9AAPXSGVfqvtzN6u7EE-2" value="-&amp;nbsp;Secure delivery&lt;br&gt;- content caching" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MaCaHjVzmZmeIsE4lFRO-19">
+        <mxCell id="F9AAPXSGVfqvtzN6u7EE-2" value="-&amp;nbsp;Secure delivery&lt;br&gt;- content caching" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="MaCaHjVzmZmeIsE4lFRO-19" vertex="1">
           <mxGeometry x="10" y="45" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MaCaHjVzmZmeIsE4lFRO-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ace5a9;strokeColor=none;" parent="1" edge="1">
@@ -214,7 +214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vHdy1J8sKQZ4Mp8VLVZG" name="without_cf_apigw">
-    <mxGraphModel dx="617" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,14 +293,26 @@
         <mxCell id="84BwAz8VpnLz1RhZMsmp-22" value="- Forward Request" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="84BwAz8VpnLz1RhZMsmp-19" vertex="1">
           <mxGeometry x="10" y="45" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84BwAz8VpnLz1RhZMsmp-23" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" parent="1" vertex="1">
-          <mxGeometry x="320" y="394" width="41.24" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="84BwAz8VpnLz1RhZMsmp-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ace5a9;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="376" y="413.71000000000004" as="sourcePoint" />
+            <mxPoint x="210" y="414" as="sourcePoint" />
             <mxPoint x="406" y="413.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vsKW-bShuhloUhTjjrLM-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="41.24" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vsKW-bShuhloUhTjjrLM-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="405" width="29.840000000000003" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vsKW-bShuhloUhTjjrLM-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="vsKW-bShuhloUhTjjrLM-2">
+          <mxGeometry width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vsKW-bShuhloUhTjjrLM-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="vsKW-bShuhloUhTjjrLM-2">
+          <mxGeometry x="10" y="10" width="19.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ghn8jMPXKPJMEng9tZPM-1" value="UI&lt;br&gt;demo-ui-static." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -461,7 +473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lpienikOnt8GfpT0oJYJ" name="without_cf_alb">
-    <mxGraphModel dx="1079" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
