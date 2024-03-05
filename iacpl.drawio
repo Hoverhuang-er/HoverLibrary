@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T03:25:55.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="LsoFH4dynulGbUQGuSoN" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-05T03:33:35.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="GAQvCVOmIlFZrDQWoxXa" version="24.0.1" type="github" pages="2">
   <diagram name="Summary" id="_QAJiaYviUXC7CEiB-VJ">
     <mxGraphModel dx="941" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -338,10 +338,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lraQigADdruUWDjFU31v" name="Adapter">
-    <mxGraphModel dx="941" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeWidth=2;fillColor=none;shadow=1;textShadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="510" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-8" value="Status&lt;div&gt;Adapter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-9" value="输入" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=6.27;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;width=16;endWidth=20;fillColor=#60a917;strokeColor=none;shadow=1;textShadow=1;" edge="1" parent="1" target="4S5Ob6d-w5kHeZey5zrq-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="180" as="sourcePoint" />
+            <mxPoint x="130" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-12" value="Constrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-13" value="Schema Convert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-14" value="Save to DynamoDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-15" value="Amazon DynamoDB" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
+          <mxGeometry x="560" y="125" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-16" value="PostProcess" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-17" value="API" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Hooks&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4S5Ob6d-w5kHeZey5zrq-19" value="SQL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
