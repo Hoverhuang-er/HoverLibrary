@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T03:03:51.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="k1S6mBInlJv5vVezBb53" version="24.0.1" type="github">
-  <diagram name="第 1 页" id="_QAJiaYviUXC7CEiB-VJ">
-    <mxGraphModel dx="1181" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-05T03:25:55.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="LsoFH4dynulGbUQGuSoN" version="24.0.1" type="github" pages="2">
+  <diagram name="Summary" id="_QAJiaYviUXC7CEiB-VJ">
+    <mxGraphModel dx="941" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,6 +235,113 @@
         <mxCell id="9RS1R_DNAXUaSOopePcb-126" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;组件 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="9RS1R_DNAXUaSOopePcb-124">
           <mxGeometry x="4" y="15" width="63" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-147" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#001DBC;" edge="1" parent="1" source="9RS1R_DNAXUaSOopePcb-127" target="9RS1R_DNAXUaSOopePcb-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-127" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeWidth=3;fillColor=none;shadow=1;textShadow=1;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="583" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-128" value="DAG Pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;shadow=1;textShadow=1;strokeColor=#1F66E0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="542" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-133" value="组件依赖检查&lt;div&gt;1&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;dashed=1;dashPattern=1 4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="472" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-134" value="组件测试&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;dashPattern=1 4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="472" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-135" value="组件生成" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;dashPattern=1 4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="472" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-136" value="组件状态更新" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;dashPattern=1 4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="474" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-138" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="495" y="498.5" width="51" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-142" value="PipelineRun&lt;div&gt;A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="125.5" y="670" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-143" value="PipelineRun&lt;div&gt;B&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="670" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-144" value="PipelineRun&lt;div&gt;C&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="401.5" y="670" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-145" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="543.5" y="714.5" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-148" value="Git Repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="236" y="611" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-149" value="状态&lt;div&gt;存储&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="289" y="611" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-150" value="输入/输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="339" y="616.5" width="86" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-151" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;定时执行：2am daily&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="785" width="111" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-152" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;事件执行：Scale Out&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="268" y="785" width="112" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-153" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;费率执行：&amp;gt;= 0.2 USD/h&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="397" y="785" width="129" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-154" value="IaC Engineer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="708" y="519" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-155" value="IaC Backend" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="507" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-158" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="757" y="552" as="sourcePoint" />
+            <mxPoint x="1004" y="552" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-159" value="&lt;b&gt;IaC Engineer&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="708" y="665" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-160" value="IaC Backend" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="653" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-162" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" target="9RS1R_DNAXUaSOopePcb-164" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="998" y="706" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-163" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;fontSize=12;curved=1;" edge="1" target="9RS1R_DNAXUaSOopePcb-164" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="706" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-164" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="702" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-165" value="" style="ellipse;html=1;shape=startState;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="859" y="640" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-166" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;fontSize=12;curved=1;" edge="1" source="9RS1R_DNAXUaSOopePcb-165" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="874" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RS1R_DNAXUaSOopePcb-167" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Status Adapter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="879" y="637" width="84" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lraQigADdruUWDjFU31v" name="Adapter">
+    <mxGraphModel dx="941" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
