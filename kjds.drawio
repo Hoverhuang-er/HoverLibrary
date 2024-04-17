@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T13:33:07.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="IbzSMcIbwNDUhAjJX3D5" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T13:36:34.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="reVJcRnYtc_95YUksrOw" version="24.2.5" type="github" pages="2">
   <diagram name="Deploy" id="bL2bV6wZ8aXgP3QGGtM7">
     <mxGraphModel dx="1749" dy="1401" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aERNCSAKqSRbdATGk8HZ" name="Migrate">
-    <mxGraphModel dx="1487" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="1191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,11 +385,11 @@
         <mxCell id="N6KbYIHXhTq259IL3s_3-86" value="Seller Data:Transfer from Shopify to ShopSite on AWS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="264" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N6KbYIHXhTq259IL3s_3-88" value="Security + Compliance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="305" width="140" height="30" as="geometry" />
+        <mxCell id="N6KbYIHXhTq259IL3s_3-88" value="Security + Compliance +&amp;nbsp; Anti-Spider" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="448" y="307" width="214" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="N6KbYIHXhTq259IL3s_3-89" value="0 Downtime to switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="344" width="140" height="30" as="geometry" />
+        <mxCell id="N6KbYIHXhTq259IL3s_3-89" value="Lower Downtime to switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="477" y="346" width="157" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
