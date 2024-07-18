@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T02:11:27.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="rYLp7TT02ywnLe2HA6rl" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-18T03:57:36.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SmMPteIAcVV_rUln3bAj" version="24.6.4" type="github" pages="3">
   <diagram name="Original" id="-0V_eJkPZJy6pVbtaWNm">
     <mxGraphModel dx="972" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -247,51 +247,87 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YXOVh31awJoqA5DOjqNH" name="pmc_ads">
-    <mxGraphModel dx="1546" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IOp0is81TLKI3Q3itv99-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DAE8FC;strokeColor=none;fillStyle=hatch;gradientColor=#0972D3;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.professional_services;" vertex="1" parent="1">
-          <mxGeometry x="602" y="642" width="78" height="78" as="geometry" />
+        <mxCell id="IOp0is81TLKI3Q3itv99-2" value="AWS PS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#0B41CD;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.professional_services;" vertex="1" parent="1">
+          <mxGeometry x="610" y="660" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="IOp0is81TLKI3Q3itv99-9" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=6;dashed=1;fillColor=#6d8764;strokeColor=#3A5431;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="560" as="sourcePoint" />
-            <mxPoint x="400" y="560" as="targetPoint" />
+            <mxPoint x="820" y="540" as="sourcePoint" />
+            <mxPoint x="700" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="IOp0is81TLKI3Q3itv99-11" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=6;dashed=1;fillColor=#6d8764;strokeColor=#3A5431;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="681" as="sourcePoint" />
-            <mxPoint x="400" y="680.5" as="targetPoint" />
+            <mxPoint x="820" y="660.5" as="sourcePoint" />
+            <mxPoint x="700" y="660.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+        <mxCell id="IOp0is81TLKI3Q3itv99-12" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=6;fillColor=#fa6800;strokeColor=#C73500;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="560" as="sourcePoint" />
-            <mxPoint x="720" y="560.5" as="targetPoint" />
+            <mxPoint x="300" y="660" as="sourcePoint" />
+            <mxPoint x="420" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+        <mxCell id="IOp0is81TLKI3Q3itv99-13" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=6;fillColor=#fa6800;strokeColor=#C73500;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="680.5" as="sourcePoint" />
-            <mxPoint x="720" y="681" as="targetPoint" />
+            <mxPoint x="300" y="540" as="sourcePoint" />
+            <mxPoint x="420" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#b1ddf0;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="IOp0is81TLKI3Q3itv99-14" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=6;fillColor=#1ba1e2;strokeColor=#006EAF;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="320" as="sourcePoint" />
-            <mxPoint x="520" y="440.5" as="targetPoint" />
+            <mxPoint x="479.25" y="360" as="sourcePoint" />
+            <mxPoint x="479.25" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOp0is81TLKI3Q3itv99-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#b0e3e6;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="IOp0is81TLKI3Q3itv99-15" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=6;fillColor=#1ba1e2;strokeColor=#006EAF;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="641" y="320" as="sourcePoint" />
-            <mxPoint x="640.5" y="440.5" as="targetPoint" />
+            <mxPoint x="639.75" y="360" as="sourcePoint" />
+            <mxPoint x="639.75" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="850" y="520" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="549.25" y="200" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Amazon Ads&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Amzn SP-API&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;event-level&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;dataset&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="308" y="561" width="104" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Advertiser&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3rd Ad Connector&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;owned&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;datasets&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707" y="561" width="127" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Product Catalogue&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;D2C Sales&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CRM&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CMS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DMP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;WMS/OMS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Clickhouse&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CDP&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Lake&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="519" width="134" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sponsored ads(SP)&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DSP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Twitch&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prime Video&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Partner Network&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Fire TV&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Kindle&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Fire Device&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Alexa&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PRs&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-25" value="&lt;font color=&quot;#ffffff&quot;&gt;Join datasets using&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;hashed identitifiers&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;or relevant&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;non-id field data&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="600" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="520" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Frontend telemetry&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Customer Data Index&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;User Behavior Data&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;UV/PV/CDN Hits&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="471" y="221" width="169" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-30" value="Output by:&amp;nbsp; custom dimensions such as&amp;nbsp;&lt;div&gt;audience, segment, campaign geo device,&lt;/div&gt;&lt;div&gt;ad type, date and etc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="437.75" y="738" width="243" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IOp0is81TLKI3Q3itv99-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Data Clean Room Environment&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Dedicate to Advertiser&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="221" width="244" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
