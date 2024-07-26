@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T05:41:07.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3Ej3Xi0eXXiDsFudSRDw" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-26T06:50:17.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="UFbNGonbRjj2wDkgGKVW" version="24.7.1" type="github" pages="4">
   <diagram name="Original" id="-0V_eJkPZJy6pVbtaWNm">
     <mxGraphModel dx="972" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -329,6 +329,14 @@
         <mxCell id="IOp0is81TLKI3Q3itv99-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Data Clean Room Environment&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Dedicate to Advertiser&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="221" width="244" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7MgOkBXt7ARNbKAF8iIM" name="amc_aws">
+    <mxGraphModel dx="1310" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
