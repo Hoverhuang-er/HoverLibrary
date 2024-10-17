@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bHe5YImh7ez7wOxQgxW9">
-    <mxGraphModel>
+    <mxGraphModel dx="1038" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="42" y="117" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="32" y="57" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="1">
+          <mxGeometry x="32" y="57" width="51.52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="206.60000000000002" as="sourcePoint" />
+            <mxPoint x="642" y="206.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-12" value="abnormal-alert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="52" y="197" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-15" value="Contact point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="52" y="277" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="232" y="117" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-17" value="Notification policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="227" y="277" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178" y="206.60000000000002" as="sourcePoint" />
+            <mxPoint x="218" y="206.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-19" value="SNS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;" vertex="1" parent="1">
+          <mxGeometry x="672" y="168" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-20" value="&amp;nbsp;Network account" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="132" width="200" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-21" value="Orion logging account" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="14" y="17" width="570" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="HK45Kl5_RAtIdjN0a8UV-21">
+          <mxGeometry x="463" y="110" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-6" value="Alertmanager" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=sts" vertex="1" parent="HK45Kl5_RAtIdjN0a8UV-21">
+          <mxGeometry x="483" y="210" width="41.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-7" value="Alert template" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="HK45Kl5_RAtIdjN0a8UV-21">
+          <mxGeometry x="483" y="130" width="38.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="HK45Kl5_RAtIdjN0a8UV-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398" y="190" as="sourcePoint" />
+            <mxPoint x="438" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-23" value="abnormal-vpc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HK45Kl5_RAtIdjN0a8UV-21">
+          <mxGeometry x="228" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-11" value="Grafana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HK45Kl5_RAtIdjN0a8UV-21">
+          <mxGeometry x="60" y="41" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HK45Kl5_RAtIdjN0a8UV-22" value="abnormal-apigw" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="242" y="168" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
